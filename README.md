@@ -1,1 +1,1 @@
-# Medora
+This repository contains the data visualization for the paper:Feng C,Zhao Z,Xu J,et al.Towards democratized clinical AI: A workflow-driven modular framework for agile multi-task agents deployment using real-time patient data.(2026)
